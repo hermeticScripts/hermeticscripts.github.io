@@ -1,0 +1,94 @@
+.navbar-brand {
+  color: black;
+  background: #ead53b;
+  padding: 28px;
+}
+
+.navbar-brand .box {
+  position: absolute;
+  top: 34px;
+  left: 38px;
+  font-weight: 300;
+}
+
+.stack,
+.heap,
+.queue {
+  border: 1px solid #1198fa;
+  padding: 20px;
+}
+
+.stack-item {
+  background: #9b65ff30;
+  color: black;
+  border: 1px solid #872bff;
+  font-family: monospace;
+}
+
+/*.heap {
+		border: 1px solid #1198fa;
+		padding: 20px;
+		color: white;
+	}*/
+.heap-card {
+  background: #f2f1f1;
+  font-family: monospace;
+}
+
+.frame {
+  font-family: monospace;
+  background: #a4a6a7;
+  color: white;
+  border: none;
+}
+
+.event,
+#message {
+  color: #007936;
+  background: #f2f1f1;
+}
+
+#message {
+  font-family: monospace;
+}
+
+.queue {
+  white-space: nowrap
+}
+
+.function,
+.const {
+  color: #0069c2;
+}
+
+.name {
+  color: #d30038;
+}
+
+.dom-api {
+  color: black;
+
+}
+
+.web-api {
+  border: 1px solid #1198fa;
+  padding: 20px;
+}
+
+.web-api li {
+  background: #f2f1f1;
+}
+
+.dom-event {
+  color: #d30038;
+}
+
+.dot-notation {
+  color: #858585;
+}
+
+.console {
+  background: #f2f1f1;
+  color: black;
+  padding: 20px;
+}
